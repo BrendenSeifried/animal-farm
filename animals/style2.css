@@ -8,14 +8,11 @@ body {
     font-family: 'Fredoka One', cursive;
 }
 
-#img{
+.animal-detail {
     
-    width:  100px;
+    
+    
     height: 100px;
     
 }
-.newimg{
-    width:  100px;
-    height: 100px;
-    
-}
+
