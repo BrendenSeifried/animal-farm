@@ -17,10 +17,6 @@ export function renderListItem(animal) {
     const span = document.createElement('span');
     span.textContent = animal.says;
 
-    // animal.append(a);
-    //div.append(img, nameSpan, span);
-   // animal.append(img, nameSpan, span);
-   // div.append(a);
     a.append(img, nameSpan, span);
     div.append(a);
     return div;
