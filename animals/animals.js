@@ -13,3 +13,4 @@ const says = document.getElementById('says');
 name.textContent = animal.name;
 says.textContent = animal.says;
 anImg.src = `../assets/${animal.type}.svg`;
+console.log(animal);
